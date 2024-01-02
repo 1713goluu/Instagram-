@@ -1,6 +1,6 @@
 # Date: 12/29/2018
-# Author: Mohamed
-# Description: Instagram bruter
+# Author: 1713goluu
+# Description: Instagram user
 
 # from lib.proxy import Proxy
 import os
